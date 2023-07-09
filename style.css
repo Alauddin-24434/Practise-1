@@ -1,0 +1,164 @@
+*body {
+    font-family: Work Sans;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.header-container {
+    background-image: url(images/banner/banner1.png);
+    width: 100%;
+    height: 808px;
+}
+
+.all-header {
+    float: right;
+    
+}
+
+.header-title {
+    color: #151414;
+    text-align: right;
+    font-size: 65px;
+    font-weight: 700;
+    display: flex;
+    width: 525px;
+}
+
+.header-description {
+    display: flex;
+    width: 494px;
+    color: var(--dark-02, #444343);
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+
+}
+
+.header-btn {
+    
+}
+
+
+
+.failure {
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.plans-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 130px 230px;
+    ;
+}
+
+.section-title {
+    text-align: center;
+    color: #151414;
+
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 5px;
+}
+
+.plan {
+    margin-top: 0;
+}
+
+.banner-container {
+    width: 100%;
+    height: 100vh;
+    margin: 0px 230px;
+
+}
+
+.banner {
+    width: 100%;
+    height: 50vh;
+    background-image: url(images/watch.png);
+    background-repeat: no-repeat;
+
+
+}
+
+.banner-file {
+    padding-top: 65px;
+    padding-left: 65px;
+
+}
+
+.banner-tect {
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+    padding-bottom: 0px;
+    display: flex;
+    width: 459px;
+
+
+
+}
+
+.banner-btn {
+    color: #F15B22;
+    text-align: center;
+
+    font-size: 20px;
+
+    font-weight: 600;
+    padding: 10px 25px;
+
+
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    background: #151414;
+    width: 100%;
+    height: 40vh;
+    margin-top: 0;
+
+}
+
+.footer-title {
+    color: #F8F8F8;
+    font-family: Work Sans;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.footer-description {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    display: flex;
+    width: 485px;
+
+}
+
+.footer-email,
+.foooter-phone {
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.footer-form {
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+
+}
